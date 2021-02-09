@@ -7,12 +7,12 @@ https://templatemo.com/tm-550-diagoona
 */
 
 body {
-    font-family: 'Open Sans', Arial, sans-serif;
+    font-family: 'Noto Sans', sans-serif;
     font-size: 17px;
     font-weight: 300;
     overflow-x: hidden;
     color: white;
-    background-color: #2C353C;
+    background-color: #4D4D4D;
 }
 
 a { 
@@ -47,7 +47,7 @@ p { line-height: 1.9; }
 .navbar-expand-lg .navbar-nav .nav-link { padding: 0; }
 
 .navbar-expand-lg .navbar-nav .tm-nav-link {
-    font-size: 1.3rem;
+    font-size: 1rem;
     font-weight: 400;
     color: white;    
     padding-bottom: 30px;    
@@ -59,7 +59,7 @@ p { line-height: 1.9; }
 
 .nav-item.active .tm-nav-link,
 .nav-item:hover .tm-nav-link {
-    color: #9CC;
+    color: #21BAB0;
 }
 
 /* Page Background */
@@ -151,7 +151,9 @@ p { line-height: 1.9; }
     box-shadow: 0 0 1px rgba(255,255,255,.8);
 }
 
-.tm-content-title { font-size: 1.5rem; }
+.tm-content-title { 
+    color:#EFC63B;
+    font-size: 1.5rem; }
 hr { border-top: 1px solid white; }
 
 .btn {
@@ -171,7 +173,7 @@ hr { border-top: 1px solid white; }
 }
 
 .btn-primary:hover {
-    background-color: #9CC;
+    background-color: #21BAB0;
     color: black;
 }
 
@@ -186,7 +188,7 @@ hr { border-top: 1px solid white; }
 
 .tm-text-link:hover,
 .tm-text-link:focus {
-    color: #9CC;
+    color: #21BAB0;
 }
 
 /* Service */ 
@@ -215,7 +217,7 @@ textarea {
     color: white;
     background-color: transparent;    
     box-shadow: none;
-    border-color: #9CC;
+    border-color: #21BAB0;
     outline: none;
 }
 
@@ -260,7 +262,7 @@ textarea {
 
     .nav-item.active .tm-nav-link,
     .nav-item:hover .tm-nav-link {
-        color: #9CC;
+        color: #21BAB0;
     }
 
     .tm-content { margin-top: 20px; }
